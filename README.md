@@ -1,7 +1,7 @@
-LinkedIn Branch of Apache Kafka
+> NEW LinkedIn Branch of Apache Kafka
 =================
 
-This is the version of Kafka running at LinkedIn.
+This is the version NEW of Kafka running at LinkedIn.
 
 Kafka was born at LinkedIn. We run thousands of brokers to deliver trillions of
 messages per day.  We run a slightly modified version of Apache Kafka trunk.
